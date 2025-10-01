@@ -8,7 +8,7 @@ Two previous research groups examined climate and habitat separately, with limit
 We will build on:
 - **Lebuhn Lab: bees_climate project** (climate focus)
 - **Lebuhn Lab: bees_habitat project** (habitat focus)
-- **Alarcón-Cruz et al. (year)** [PDF in `/papers`]
+- **Alarcón-Cruz et al. (submitted)** [PDF in `/papers`]
 
 ## Goals
 1. Combine climate and habitat datasets.
